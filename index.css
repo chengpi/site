@@ -71,8 +71,8 @@ body{
   background-color: white;
   border: 0.1vmax solid #15120e;
   border-right: 0px;
-  border-top-left-radius: 1vmax;
-  border-bottom-left-radius: 1vmax;
+  /* border-top-left-radius: 1vmax;
+  border-bottom-left-radius: 1vmax; */
   float: left;
   background-position: 100% 100%;
   background-repeat: no-repeat;
@@ -152,8 +152,8 @@ body{
   padding: 0px 6px 0px 6px;
   background-color: #00FF00;
   border: 0.1vmax solid #15120e;
-  border-top-right-radius: 1vmax;
-  border-bottom-right-radius: 1vmax;
+  /* border-top-right-radius: 1vmax;
+  border-bottom-right-radius: 1vmax; */
   /* float: left; */
   background-image: url("img/searchBtn.png");
   background-size: 50%;
