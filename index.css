@@ -142,6 +142,8 @@ body{
   border-right: 0px;
   border-top-left-radius:  0vmax; 
   border-bottom-left-radius:  0vmax;
+  border-bottom-right-radius: 0vmax;
+  border-top-right-radius: 0vmax;
 
 }
 .first_two_input2{
@@ -154,6 +156,8 @@ body{
   border: 0.1vmax solid #15120e;
   border-top-right-radius: 0vmax;
   border-bottom-right-radius: 0vmax;
+  border-top-left-radius:  0vmax; 
+  border-bottom-left-radius:  0vmax;
   /* float: left; */
   background-image: url("img/searchBtn.png");
   background-size: 50%;
