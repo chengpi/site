@@ -115,7 +115,7 @@ body{
   float: left;
 }
 .scName {
-  font-size: 1vmax;
+  font-size: 1.3vmax;
   float: left;
   display: block;
   width: 5vmax;
@@ -135,7 +135,7 @@ body{
   width: 95%;
   height: 3vmax;
   /* padding: 2px; */
-  font-size: 1.2vmax;
+  font-size: 1.3vmax;
   padding: 0px;
   border: 0.1vmax solid #15120e;
   border-left: 0px;
@@ -172,7 +172,7 @@ body{
   /* z-index: 40; */
   display: none;
   /* flex-direction: column; */
-  font-size: 1.2vmax;
+  font-size: 1.3vmax;
   background-color: white;
   border-bottom-left-radius: 1vmax;
   border-bottom-right-radius: 1vmax;
@@ -202,7 +202,7 @@ body{
   justify-content: center;
 }
 .first_three_one{
-  font-size: 1.1vw;
+  font-size: 1.3vmax;
   margin: 0px 15px 0px 15px;
   float: right;
   text-align: center;
@@ -399,7 +399,7 @@ a{
   background-position: -30px -60px;
 } */
 .first_four_a_span{
-  font-size: 1vw;
+  font-size: 1.3vmax;
 
 }
 .first_four_a_img1{
@@ -466,7 +466,7 @@ a{
   flex-shrink: 0;
 }
 .second_one_div{
-  font-size: 1.1vmax;
+  font-size: 1.3vmax;
   margin-top: 1vmax;
   margin-bottom: 0px;
 }
