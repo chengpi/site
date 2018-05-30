@@ -87,6 +87,7 @@ $(document).ready(function(){
         });
     });
     textb.blur(function(){
+        
         $(".keyword").css({"display":"none",height:0});
     });
     /*-----------------获取关键词js---------------------*/
